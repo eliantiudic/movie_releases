@@ -1,0 +1,1820 @@
+1902:
+Action releases: 1
+Adventure releases: 1
+Fantasy releases: 1
+Sci-Fi releases: 1
+
+
+1903:
+Crime releases: 1
+Western releases: 1
+
+
+1908:
+Animation releases: 1
+Comedy releases: 1
+Sci-Fi releases: 1
+
+
+1915:
+Drama releases: 1
+War releases: 1
+
+
+1916:
+Drama releases: 1
+Action releases: 1
+Adventure releases: 1
+Sci-Fi releases: 1
+Fantasy releases: 1
+Romance releases: 1
+Comedy releases: 1
+
+
+1917:
+Comedy releases: 1
+
+
+1919:
+Comedy releases: 1
+Drama releases: 1
+
+
+1920:
+Crime releases: 1
+Fantasy releases: 1
+Horror releases: 1
+Comedy releases: 1
+
+
+1921:
+Comedy releases: 1
+Drama releases: 1
+
+
+1922:
+Horror releases: 1
+
+
+1923:
+Drama releases: 2
+Action releases: 1
+Comedy releases: 2
+Romance releases: 1
+Horror releases: 1
+
+
+1924:
+Comedy releases: 2
+Action releases: 2
+Adventure releases: 2
+Fantasy releases: 3
+Romance releases: 2
+Drama releases: 2
+Sci-Fi releases: 1
+Thriller releases: 1
+
+
+1925:
+Adventure releases: 2
+Comedy releases: 2
+Romance releases: 2
+Drama releases: 2
+War releases: 1
+
+
+1926:
+Comedy releases: 2
+War releases: 1
+Adventure releases: 1
+Romance releases: 1
+Drama releases: 3
+Fantasy releases: 1
+Horror releases: 1
+
+
+1927:
+Drama releases: 5
+Sci-Fi releases: 1
+Crime releases: 1
+Thriller releases: 1
+Romance releases: 2
+Comedy releases: 1
+Musical releases: 1
+Horror releases: 1
+Mystery releases: 1
+
+
+1928:
+Animation releases: 1
+Children releases: 1
+Comedy releases: 3
+Musical releases: 1
+Drama releases: 1
+Romance releases: 1
+
+
+1929:
+Musical releases: 2
+Documentary releases: 1
+Fantasy releases: 1
+Comedy releases: 1
+
+
+1930:
+Action releases: 1
+Drama releases: 4
+War releases: 1
+Comedy releases: 1
+Musical releases: 1
+Romance releases: 1
+
+
+1931:
+Crime releases: 3
+Film-Noir releases: 1
+Thriller releases: 1
+Drama releases: 9
+Western releases: 1
+Horror releases: 3
+Sci-Fi releases: 1
+Comedy releases: 4
+Romance releases: 3
+Musical releases: 1
+Action releases: 1
+Mystery releases: 1
+
+
+1932:
+Romance releases: 4
+War releases: 1
+Drama releases: 4
+Horror releases: 2
+Comedy releases: 3
+Crime releases: 3
+Film-Noir releases: 1
+
+
+1933:
+Comedy releases: 5
+Musical releases: 4
+War releases: 1
+Action releases: 1
+Adventure releases: 2
+Fantasy releases: 2
+Horror releases: 3
+Sci-Fi releases: 1
+Drama releases: 4
+Romance releases: 4
+Crime releases: 1
+Mystery releases: 1
+Thriller releases: 1
+Children releases: 1
+
+
+1934:
+Comedy releases: 6
+Romance releases: 3
+Musical releases: 2
+Crime releases: 1
+Drama releases: 4
+Thriller releases: 1
+Children releases: 1
+Fantasy releases: 1
+Documentary releases: 2
+War releases: 1
+
+
+1935:
+Comedy releases: 7
+Musical releases: 4
+Romance releases: 6
+Drama releases: 6
+Mystery releases: 1
+Thriller releases: 1
+Horror releases: 1
+Sci-Fi releases: 1
+Adventure releases: 2
+Fantasy releases: 1
+Action releases: 1
+
+
+1936:
+Comedy releases: 7
+Romance releases: 10
+Drama releases: 7
+Musical releases: 4
+Thriller releases: 3
+Crime releases: 2
+Mystery releases: 1
+Adventure releases: 2
+Film-Noir releases: 1
+Western releases: 1
+
+
+1937:
+Animation releases: 1
+Children releases: 2
+Drama releases: 12
+Fantasy releases: 1
+Musical releases: 3
+Comedy releases: 3
+Romance releases: 4
+War releases: 1
+Action releases: 1
+Adventure releases: 2
+Thriller releases: 1
+Crime releases: 2
+Film-Noir releases: 1
+
+
+1938:
+Action releases: 2
+Adventure releases: 1
+Romance releases: 4
+Comedy releases: 8
+Children releases: 2
+Drama releases: 9
+Fantasy releases: 2
+Mystery releases: 1
+Thriller releases: 2
+War releases: 1
+Crime releases: 1
+Film-Noir releases: 1
+Musical releases: 1
+Animation releases: 2
+
+
+1939:
+Children releases: 4
+Drama releases: 15
+Adventure releases: 4
+Fantasy releases: 1
+Musical releases: 2
+Romance releases: 9
+War releases: 2
+Comedy releases: 9
+Animation releases: 2
+Western releases: 2
+Action releases: 1
+Crime releases: 2
+Mystery releases: 1
+Thriller releases: 1
+
+
+1940:
+Animation releases: 2
+Children releases: 2
+Fantasy releases: 3
+Musical releases: 3
+Comedy releases: 11
+Drama releases: 14
+Romance releases: 9
+Mystery releases: 2
+Thriller releases: 3
+Film-Noir releases: 2
+Adventure releases: 3
+War releases: 1
+Action releases: 2
+Western releases: 2
+Sci-Fi releases: 2
+Horror releases: 1
+
+
+1941:
+Film-Noir releases: 3
+Mystery releases: 4
+Drama releases: 9
+Romance releases: 6
+Comedy releases: 8
+Animation releases: 1
+Children releases: 1
+Musical releases: 2
+Thriller releases: 2
+Fantasy releases: 2
+Horror releases: 2
+Adventure releases: 1
+Crime releases: 2
+War releases: 1
+
+
+1942:
+Drama releases: 13
+Romance releases: 10
+Comedy releases: 9
+War releases: 3
+Animation releases: 1
+Children releases: 1
+Mystery releases: 2
+Thriller releases: 5
+Musical releases: 2
+Action releases: 1
+Horror releases: 1
+Crime releases: 3
+Film-Noir releases: 2
+
+
+1943:
+Adventure releases: 1
+Drama releases: 8
+Romance releases: 1
+War releases: 1
+Crime releases: 2
+Thriller releases: 2
+Horror releases: 2
+Western releases: 1
+Fantasy releases: 1
+
+
+1944:
+Drama releases: 11
+Thriller releases: 3
+Musical releases: 2
+Crime releases: 2
+Film-Noir releases: 2
+Mystery releases: 2
+Comedy releases: 4
+War releases: 4
+Action releases: 1
+Romance releases: 5
+Children releases: 1
+Adventure releases: 2
+
+
+1945:
+Mystery releases: 6
+Romance releases: 2
+Thriller releases: 3
+Animation releases: 1
+Children releases: 1
+Musical releases: 2
+Drama releases: 7
+Horror releases: 4
+Film-Noir releases: 2
+Comedy releases: 2
+Crime releases: 3
+War releases: 3
+Fantasy releases: 1
+
+
+1946:
+Film-Noir releases: 8
+Romance releases: 5
+Thriller releases: 5
+Children releases: 3
+Drama releases: 14
+Fantasy releases: 2
+Crime releases: 5
+Mystery releases: 4
+War releases: 2
+Adventure releases: 1
+Animation releases: 1
+Musical releases: 4
+Western releases: 2
+Comedy releases: 1
+
+
+1947:
+Drama releases: 12
+Fantasy releases: 1
+Romance releases: 6
+Crime releases: 6
+Film-Noir releases: 6
+Comedy releases: 9
+Thriller releases: 2
+Musical releases: 1
+Mystery releases: 2
+
+
+1948:
+Action releases: 3
+Adventure releases: 4
+Drama releases: 15
+Western releases: 2
+Crime releases: 4
+Thriller releases: 4
+Film-Noir releases: 3
+Comedy releases: 3
+Horror releases: 1
+Fantasy releases: 1
+Musical releases: 2
+Romance releases: 3
+Children releases: 1
+War releases: 1
+Mystery releases: 1
+
+
+1949:
+Musical releases: 3
+Film-Noir releases: 4
+Mystery releases: 2
+Thriller releases: 3
+Drama releases: 15
+Adventure releases: 1
+Children releases: 2
+Comedy releases: 8
+Romance releases: 7
+Animation releases: 2
+War releases: 2
+Western releases: 2
+Action releases: 1
+Crime releases: 2
+Documentary releases: 1
+Horror releases: 1
+
+
+1950:
+Drama releases: 10
+Film-Noir releases: 4
+Romance releases: 9
+Comedy releases: 6
+Animation releases: 1
+Children releases: 2
+Fantasy releases: 2
+Musical releases: 2
+Mystery releases: 4
+Thriller releases: 1
+Crime releases: 3
+Western releases: 4
+Adventure releases: 2
+Action releases: 1
+War releases: 1
+
+
+1951:
+Musical releases: 5
+Romance releases: 7
+Adventure releases: 3
+Comedy releases: 5
+War releases: 3
+Animation releases: 1
+Children releases: 1
+Fantasy releases: 2
+Drama releases: 12
+Sci-Fi releases: 4
+Thriller releases: 2
+Crime releases: 2
+Film-Noir releases: 1
+Horror releases: 1
+Action releases: 1
+
+
+1952:
+Comedy releases: 7
+Musical releases: 1
+Romance releases: 6
+Drama releases: 9
+Western releases: 1
+Adventure releases: 2
+Sci-Fi releases: 1
+War releases: 1
+
+
+1953:
+Comedy releases: 9
+Drama releases: 17
+Romance releases: 7
+Musical releases: 6
+Adventure releases: 3
+Crime releases: 2
+War releases: 2
+Animation releases: 2
+Children releases: 3
+Fantasy releases: 2
+Thriller releases: 5
+Sci-Fi releases: 2
+Action releases: 3
+Western releases: 2
+Horror releases: 1
+Mystery releases: 1
+Film-Noir releases: 1
+
+
+1954:
+Mystery releases: 2
+Thriller releases: 4
+Comedy releases: 3
+Romance releases: 4
+Adventure releases: 3
+Drama releases: 15
+Sci-Fi releases: 4
+Crime releases: 4
+Action releases: 1
+Horror releases: 3
+Musical releases: 4
+Western releases: 1
+Fantasy releases: 1
+War releases: 1
+Film-Noir releases: 1
+Animation releases: 1
+
+
+1955:
+Drama releases: 21
+Crime releases: 8
+Mystery releases: 4
+Romance releases: 8
+Thriller releases: 6
+Adventure releases: 1
+Western releases: 3
+Animation releases: 1
+Children releases: 1
+Comedy releases: 8
+Horror releases: 2
+Sci-Fi releases: 2
+Film-Noir releases: 4
+War releases: 4
+Musical releases: 2
+Documentary releases: 1
+Action releases: 1
+
+
+1956:
+Drama releases: 18
+Romance releases: 4
+Western releases: 4
+Adventure releases: 5
+Comedy releases: 4
+Sci-Fi releases: 6
+Film-Noir releases: 4
+Thriller releases: 4
+Mystery releases: 1
+Musical releases: 4
+Horror releases: 4
+Crime releases: 2
+War releases: 1
+Children releases: 1
+Fantasy releases: 1
+
+
+1957:
+Comedy releases: 8
+Musical releases: 3
+Drama releases: 18
+Romance releases: 6
+Children releases: 1
+War releases: 4
+Adventure releases: 2
+Horror releases: 3
+Sci-Fi releases: 5
+Film-Noir releases: 1
+Thriller releases: 4
+Mystery releases: 1
+Action releases: 2
+Western releases: 1
+(no genres listed) releases: 1
+
+
+1958:
+Drama releases: 11
+Mystery releases: 2
+Romance releases: 7
+Thriller releases: 4
+Musical releases: 3
+Adventure releases: 4
+Crime releases: 5
+Film-Noir releases: 1
+Horror releases: 4
+Sci-Fi releases: 4
+War releases: 3
+Action releases: 3
+Fantasy releases: 2
+Western releases: 1
+Comedy releases: 10
+
+
+1959:
+Drama releases: 15
+Horror releases: 7
+Action releases: 3
+Adventure releases: 5
+Mystery releases: 2
+Romance releases: 6
+Thriller releases: 2
+Comedy releases: 7
+Crime releases: 3
+Children releases: 4
+Sci-Fi releases: 7
+Fantasy releases: 1
+Animation releases: 1
+Musical releases: 2
+War releases: 8
+Western releases: 2
+
+
+1960:
+Comedy releases: 7
+Drama releases: 19
+Romance releases: 6
+Children releases: 4
+Adventure releases: 3
+Crime releases: 7
+Horror releases: 8
+Thriller releases: 3
+Sci-Fi releases: 4
+Action releases: 4
+War releases: 4
+Western releases: 3
+Mystery releases: 2
+Musical releases: 2
+Film-Noir releases: 1
+Fantasy releases: 1
+
+
+1961:
+Drama releases: 18
+Romance releases: 10
+Children releases: 4
+Comedy releases: 12
+Horror releases: 3
+Thriller releases: 1
+Musical releases: 3
+Fantasy releases: 3
+Adventure releases: 6
+Animation releases: 1
+Action releases: 3
+War releases: 3
+Sci-Fi releases: 3
+Western releases: 2
+Crime releases: 1
+
+
+1962:
+Adventure releases: 7
+Drama releases: 24
+War releases: 4
+Crime releases: 4
+Thriller releases: 5
+Children releases: 2
+Action releases: 4
+Sci-Fi releases: 3
+Romance releases: 7
+Horror releases: 4
+Musical releases: 3
+Western releases: 3
+Comedy releases: 7
+Fantasy releases: 3
+Mystery releases: 1
+Documentary releases: 1
+
+
+1963:
+Comedy releases: 15
+Crime releases: 6
+Mystery releases: 2
+Romance releases: 3
+Thriller releases: 7
+Animation releases: 1
+Children releases: 3
+Fantasy releases: 3
+Musical releases: 1
+Drama releases: 15
+Action releases: 5
+Adventure releases: 9
+War releases: 4
+Horror releases: 6
+Sci-Fi releases: 4
+Western releases: 1
+Film-Noir releases: 1
+
+
+1964:
+Drama releases: 17
+Musical releases: 6
+Romance releases: 7
+Comedy releases: 17
+War releases: 7
+Children releases: 2
+Fantasy releases: 5
+Mystery releases: 3
+Thriller releases: 7
+Horror releases: 5
+Adventure releases: 6
+Action releases: 6
+Western releases: 2
+Sci-Fi releases: 3
+Animation releases: 3
+Crime releases: 2
+Documentary releases: 1
+
+
+1965:
+Action releases: 9
+Crime releases: 4
+Drama releases: 24
+Mystery releases: 4
+Romance releases: 9
+Sci-Fi releases: 4
+Thriller releases: 9
+Children releases: 4
+Comedy releases: 17
+Musical releases: 4
+War releases: 4
+Adventure releases: 9
+Horror releases: 3
+Western releases: 4
+Fantasy releases: 2
+Animation releases: 3
+
+
+1966:
+Action releases: 4
+Adventure releases: 5
+Western releases: 3
+Drama releases: 18
+Thriller releases: 3
+Romance releases: 7
+Documentary releases: 1
+Mystery releases: 2
+Sci-Fi releases: 3
+Comedy releases: 19
+War releases: 6
+Musical releases: 3
+Crime releases: 6
+Children releases: 3
+Horror releases: 1
+Animation releases: 3
+Fantasy releases: 1
+
+
+1967:
+Drama releases: 23
+Crime releases: 6
+Comedy releases: 14
+Romance releases: 3
+Mystery releases: 3
+Animation releases: 1
+Children releases: 4
+Musical releases: 5
+Adventure releases: 5
+Action releases: 8
+War releases: 1
+Horror releases: 4
+Sci-Fi releases: 3
+Western releases: 1
+Thriller releases: 5
+Fantasy releases: 1
+Documentary releases: 2
+
+
+1968:
+Adventure releases: 9
+Comedy releases: 13
+Sci-Fi releases: 7
+Horror releases: 5
+Mystery releases: 2
+Drama releases: 17
+Thriller releases: 5
+Animation releases: 7
+Children releases: 8
+Musical releases: 8
+Action releases: 7
+Western releases: 3
+Crime releases: 4
+Romance releases: 4
+Fantasy releases: 2
+War releases: 3
+Documentary releases: 3
+(no genres listed) releases: 1
+
+
+1969:
+Adventure releases: 6
+Western releases: 6
+Children releases: 6
+Comedy releases: 11
+Action releases: 6
+Drama releases: 17
+Crime releases: 3
+Thriller releases: 4
+War releases: 4
+Romance releases: 4
+Fantasy releases: 4
+Musical releases: 4
+Mystery releases: 1
+Horror releases: 1
+Sci-Fi releases: 1
+Animation releases: 5
+
+
+1970:
+Animation releases: 3
+Children releases: 4
+Drama releases: 18
+War releases: 7
+Action releases: 5
+Sci-Fi releases: 1
+Western releases: 3
+Comedy releases: 10
+Romance releases: 4
+Mystery releases: 2
+Fantasy releases: 3
+Musical releases: 1
+Crime releases: 4
+Thriller releases: 5
+Adventure releases: 3
+Horror releases: 2
+
+
+1971:
+Adventure releases: 6
+Children releases: 3
+Musical releases: 3
+Comedy releases: 12
+Fantasy releases: 1
+War releases: 2
+Crime releases: 8
+Drama releases: 20
+Sci-Fi releases: 5
+Thriller releases: 13
+Romance releases: 3
+Action releases: 17
+Mystery releases: 6
+Documentary releases: 1
+Western releases: 3
+Horror releases: 1
+Animation releases: 2
+
+
+1972:
+Crime releases: 5
+Drama releases: 22
+Comedy releases: 15
+Action releases: 6
+Adventure releases: 5
+Thriller releases: 7
+Sci-Fi releases: 6
+Western releases: 2
+Mystery releases: 3
+Musical releases: 2
+Horror releases: 4
+Romance releases: 4
+Children releases: 1
+Fantasy releases: 1
+War releases: 1
+Animation releases: 1
+
+
+1973:
+Comedy releases: 13
+Drama releases: 29
+Sci-Fi releases: 9
+Crime releases: 17
+Horror releases: 10
+Mystery releases: 3
+Thriller releases: 14
+Animation releases: 5
+Children releases: 3
+Film-Noir releases: 1
+Action releases: 12
+Western releases: 3
+Adventure releases: 6
+Musical releases: 2
+Romance releases: 3
+Fantasy releases: 2
+War releases: 1
+
+
+1974:
+Children releases: 3
+Comedy releases: 13
+Fantasy releases: 3
+Romance releases: 6
+Crime releases: 10
+Drama releases: 20
+Film-Noir releases: 1
+Mystery releases: 4
+Thriller releases: 12
+Horror releases: 6
+Action releases: 11
+Adventure releases: 5
+Western releases: 1
+Musical releases: 1
+Documentary releases: 2
+Sci-Fi releases: 2
+Animation releases: 1
+
+
+1975:
+Children releases: 2
+Comedy releases: 12
+Western releases: 1
+Adventure releases: 7
+Fantasy releases: 2
+Crime releases: 5
+Drama releases: 19
+Action releases: 7
+Horror releases: 5
+Mystery releases: 4
+Musical releases: 3
+Sci-Fi releases: 7
+Thriller releases: 5
+Romance releases: 7
+War releases: 1
+Documentary releases: 1
+Animation releases: 1
+
+
+1976:
+Crime releases: 8
+Drama releases: 21
+Thriller releases: 15
+Horror releases: 5
+Fantasy releases: 3
+Mystery releases: 6
+Children releases: 3
+Comedy releases: 16
+Adventure releases: 8
+Romance releases: 4
+Sci-Fi releases: 4
+Action releases: 7
+Western releases: 2
+War releases: 3
+Musical releases: 1
+Animation releases: 1
+Documentary releases: 1
+
+
+1977:
+Action releases: 9
+Adventure releases: 12
+Sci-Fi releases: 4
+Animation releases: 6
+Children releases: 8
+Musical releases: 4
+Comedy releases: 21
+Romance releases: 6
+Horror releases: 8
+Fantasy releases: 9
+Crime releases: 4
+Drama releases: 27
+Thriller releases: 7
+Mystery releases: 3
+War releases: 6
+Documentary releases: 2
+Western releases: 1
+(no genres listed) releases: 1
+
+
+1978:
+Comedy releases: 19
+Drama releases: 17
+War releases: 4
+Musical releases: 2
+Romance releases: 2
+Horror releases: 12
+Thriller releases: 7
+Children releases: 6
+Sci-Fi releases: 8
+Action releases: 15
+Western releases: 1
+Adventure releases: 8
+Animation releases: 3
+Fantasy releases: 5
+Mystery releases: 4
+Crime releases: 4
+Documentary releases: 4
+
+
+1979:
+Comedy releases: 24
+Drama releases: 32
+War releases: 3
+Action releases: 13
+Horror releases: 10
+Sci-Fi releases: 12
+Mystery releases: 3
+Romance releases: 5
+Thriller releases: 10
+Adventure releases: 10
+Children releases: 5
+Western releases: 2
+Fantasy releases: 2
+Musical releases: 4
+Crime releases: 5
+Animation releases: 3
+
+
+1980:
+Horror releases: 18
+Mystery releases: 6
+Comedy releases: 29
+Action releases: 18
+Adventure releases: 12
+Sci-Fi releases: 14
+Musical releases: 4
+Drama releases: 32
+Romance releases: 10
+Thriller releases: 10
+Children releases: 2
+Crime releases: 5
+War releases: 3
+Documentary releases: 1
+Western releases: 1
+Fantasy releases: 2
+Animation releases: 1
+(no genres listed) releases: 1
+
+
+1981:
+Action releases: 20
+Adventure releases: 15
+Animation releases: 5
+Horror releases: 16
+Sci-Fi releases: 12
+Children releases: 3
+Drama releases: 31
+Thriller releases: 19
+War releases: 5
+Mystery releases: 7
+Romance releases: 9
+Comedy releases: 32
+Fantasy releases: 8
+Musical releases: 3
+Crime releases: 7
+Documentary releases: 2
+
+
+1982:
+Action releases: 14
+Sci-Fi releases: 11
+Thriller releases: 13
+Comedy releases: 32
+Musical releases: 8
+Romance releases: 12
+Drama releases: 29
+Children releases: 6
+Horror releases: 15
+Fantasy releases: 7
+Adventure releases: 10
+Mystery releases: 6
+Crime releases: 5
+Animation releases: 6
+Documentary releases: 5
+War releases: 3
+Western releases: 1
+
+
+1983:
+Action releases: 15
+Adventure releases: 9
+Sci-Fi releases: 10
+Drama releases: 29
+Comedy releases: 31
+Documentary releases: 5
+Horror releases: 13
+Romance releases: 7
+Western releases: 1
+Children releases: 5
+Fantasy releases: 7
+Mystery releases: 4
+Thriller releases: 13
+War releases: 2
+Crime releases: 8
+Musical releases: 3
+Animation releases: 5
+
+
+1984:
+Drama releases: 35
+Crime releases: 7
+Action releases: 17
+Sci-Fi releases: 18
+Thriller releases: 13
+Comedy releases: 40
+War releases: 5
+Romance releases: 12
+Horror releases: 12
+Adventure releases: 18
+Fantasy releases: 11
+Children releases: 5
+Documentary releases: 2
+Musical releases: 7
+Film-Noir releases: 1
+Animation releases: 4
+Mystery releases: 2
+
+
+1985:
+Fantasy releases: 16
+Sci-Fi releases: 18
+Drama releases: 45
+War releases: 5
+Comedy releases: 54
+Romance releases: 22
+Adventure releases: 31
+Thriller releases: 18
+Horror releases: 16
+Action releases: 23
+Children releases: 11
+Animation releases: 4
+Crime releases: 11
+Mystery releases: 7
+Western releases: 2
+Documentary releases: 4
+Musical releases: 1
+
+
+1986:
+Drama releases: 55
+War releases: 4
+Action releases: 27
+Romance releases: 15
+Mystery releases: 7
+Adventure releases: 24
+Horror releases: 23
+Sci-Fi releases: 19
+Comedy releases: 54
+Film-Noir releases: 1
+Fantasy releases: 10
+Musical releases: 4
+Thriller releases: 21
+Children releases: 10
+Animation releases: 9
+Crime releases: 19
+Western releases: 1
+
+
+1987:
+Drama releases: 56
+Musical releases: 2
+Romance releases: 28
+Action releases: 31
+Adventure releases: 17
+Comedy releases: 77
+Fantasy releases: 16
+War releases: 8
+Horror releases: 28
+Sci-Fi releases: 20
+Thriller releases: 24
+Crime releases: 21
+Mystery releases: 7
+Children releases: 8
+Film-Noir releases: 2
+Western releases: 3
+Animation releases: 9
+Documentary releases: 1
+
+
+1988:
+Adventure releases: 18
+Animation releases: 11
+Children releases: 10
+Comedy releases: 72
+Musical releases: 6
+Action releases: 29
+Crime releases: 19
+Thriller releases: 29
+Documentary releases: 4
+Drama releases: 67
+Romance releases: 23
+Sci-Fi releases: 17
+Western releases: 2
+Horror releases: 24
+Fantasy releases: 16
+War releases: 7
+Mystery releases: 10
+Film-Noir releases: 1
+
+
+1989:
+Action releases: 33
+Crime releases: 22
+Thriller releases: 20
+Comedy releases: 71
+Adventure releases: 16
+Sci-Fi releases: 17
+Drama releases: 60
+Animation releases: 9
+Children releases: 9
+Romance releases: 16
+War releases: 5
+Fantasy releases: 13
+Horror releases: 11
+Documentary releases: 2
+Musical releases: 3
+Mystery releases: 6
+Western releases: 1
+Film-Noir releases: 1
+
+
+1990:
+Children releases: 8
+Comedy releases: 59
+Drama releases: 62
+Fantasy releases: 15
+Romance releases: 26
+Thriller releases: 32
+Adventure releases: 20
+Western releases: 4
+Action releases: 35
+Crime releases: 24
+Film-Noir releases: 2
+Documentary releases: 2
+Horror releases: 23
+Sci-Fi releases: 17
+Mystery releases: 6
+Animation releases: 6
+Musical releases: 3
+War releases: 8
+(no genres listed) releases: 1
+
+
+1991:
+Action releases: 26
+Sci-Fi releases: 13
+Crime releases: 17
+Horror releases: 9
+Thriller releases: 22
+Animation releases: 6
+Children releases: 7
+Fantasy releases: 14
+Musical releases: 7
+Romance releases: 31
+IMAX releases: 1
+Adventure releases: 18
+Drama releases: 63
+Comedy releases: 69
+Documentary releases: 4
+Mystery releases: 10
+Western releases: 2
+War releases: 1
+
+
+1992:
+Drama releases: 78
+Comedy releases: 69
+Romance releases: 36
+Fantasy releases: 9
+Film-Noir releases: 2
+Thriller releases: 32
+Action releases: 31
+Adventure releases: 12
+Animation releases: 8
+Children releases: 13
+Musical releases: 5
+Crime releases: 23
+Horror releases: 13
+Sci-Fi releases: 10
+Mystery releases: 5
+Western releases: 3
+War releases: 4
+Documentary releases: 6
+IMAX releases: 1
+(no genres listed) releases: 1
+
+
+1993:
+Comedy releases: 77
+Drama releases: 99
+Action releases: 43
+Crime releases: 20
+Horror releases: 12
+Film-Noir releases: 1
+Thriller releases: 32
+Musical releases: 4
+Documentary releases: 3
+Children releases: 17
+Fantasy releases: 15
+Sci-Fi releases: 14
+Mystery releases: 12
+Romance releases: 33
+Adventure releases: 19
+Western releases: 3
+War releases: 5
+Animation releases: 9
+
+
+1994:
+Adventure releases: 30
+Drama releases: 114
+Comedy releases: 111
+Romance releases: 41
+Mystery releases: 8
+Children releases: 24
+Fantasy releases: 16
+Documentary releases: 7
+Crime releases: 27
+Thriller releases: 35
+Horror releases: 15
+War releases: 6
+Action releases: 40
+Musical releases: 3
+Sci-Fi releases: 11
+Western releases: 7
+Animation releases: 12
+IMAX releases: 2
+Film-Noir releases: 1
+
+
+1995:
+Adventure releases: 29
+Animation releases: 12
+Children releases: 29
+Comedy releases: 90
+Fantasy releases: 16
+Romance releases: 49
+Drama releases: 123
+Action releases: 44
+Crime releases: 33
+Thriller releases: 42
+Horror releases: 19
+Mystery releases: 18
+Sci-Fi releases: 19
+War releases: 14
+Musical releases: 4
+Documentary releases: 6
+IMAX releases: 1
+Western releases: 6
+Film-Noir releases: 1
+(no genres listed) releases: 2
+
+
+1996:
+Drama releases: 128
+Thriller releases: 61
+Comedy releases: 108
+Crime releases: 32
+Romance releases: 53
+Action releases: 41
+Sci-Fi releases: 21
+Horror releases: 15
+Adventure releases: 35
+Children releases: 23
+Mystery releases: 10
+Musical releases: 9
+Documentary releases: 12
+Animation releases: 9
+Fantasy releases: 13
+War releases: 3
+Western releases: 1
+Film-Noir releases: 1
+(no genres listed) releases: 1
+
+
+1997:
+Drama releases: 125
+Romance releases: 51
+Comedy releases: 94
+Horror releases: 18
+Thriller releases: 64
+Crime releases: 33
+Mystery releases: 21
+Children releases: 25
+Action releases: 51
+War releases: 7
+Fantasy releases: 15
+Film-Noir releases: 4
+Sci-Fi releases: 22
+Musical releases: 6
+Animation releases: 11
+Adventure releases: 26
+Documentary releases: 8
+IMAX releases: 1
+
+
+1998:
+Crime releases: 36
+Drama releases: 122
+Thriller releases: 52
+Horror releases: 14
+Comedy releases: 99
+Romance releases: 56
+Sci-Fi releases: 28
+Action releases: 47
+Children releases: 23
+Adventure releases: 30
+Film-Noir releases: 1
+Fantasy releases: 19
+Musical releases: 8
+Mystery releases: 11
+Documentary releases: 12
+IMAX releases: 3
+War releases: 8
+Animation releases: 17
+Western releases: 2
+
+
+1999:
+Comedy releases: 112
+Drama releases: 124
+War releases: 4
+Horror releases: 21
+Thriller releases: 48
+Sci-Fi releases: 17
+Romance releases: 46
+Action releases: 34
+Crime releases: 18
+Mystery releases: 14
+Animation releases: 8
+Children releases: 13
+Adventure releases: 19
+Fantasy releases: 17
+Documentary releases: 13
+Musical releases: 4
+Western releases: 2
+IMAX releases: 1
+
+
+2000:
+Crime releases: 39
+Drama releases: 138
+Comedy releases: 117
+Adventure releases: 23
+Sci-Fi releases: 19
+Thriller releases: 59
+Romance releases: 57
+Horror releases: 23
+Mystery releases: 8
+Action releases: 39
+Animation releases: 18
+Children releases: 17
+Documentary releases: 14
+War releases: 7
+Musical releases: 4
+Western releases: 3
+Fantasy releases: 18
+IMAX releases: 1
+
+
+2001:
+Crime releases: 36
+Drama releases: 148
+Thriller releases: 53
+Action releases: 48
+Comedy releases: 127
+Romance releases: 66
+Mystery releases: 19
+Horror releases: 19
+Fantasy releases: 20
+Animation releases: 17
+Children releases: 12
+War releases: 13
+Adventure releases: 26
+Documentary releases: 12
+Musical releases: 7
+Sci-Fi releases: 17
+Western releases: 3
+Film-Noir releases: 1
+
+
+2002:
+Comedy releases: 116
+Crime releases: 49
+Action releases: 45
+Drama releases: 149
+Sci-Fi releases: 27
+Thriller releases: 72
+Adventure releases: 37
+Children releases: 19
+Fantasy releases: 20
+Horror releases: 27
+Mystery releases: 21
+Romance releases: 58
+Musical releases: 11
+War releases: 8
+Animation releases: 13
+IMAX releases: 2
+Western releases: 2
+Documentary releases: 28
+
+
+2003:
+Comedy releases: 109
+Documentary releases: 22
+Romance releases: 51
+Action releases: 66
+Horror releases: 25
+Thriller releases: 60
+Crime releases: 48
+Drama releases: 129
+Adventure releases: 32
+Animation releases: 20
+Children releases: 23
+War releases: 11
+Sci-Fi releases: 23
+IMAX releases: 3
+Musical releases: 7
+Mystery releases: 21
+Fantasy releases: 18
+Western releases: 2
+
+
+2004:
+Comedy releases: 111
+Romance releases: 52
+Action releases: 63
+Crime releases: 36
+Drama releases: 128
+Sci-Fi releases: 31
+Thriller releases: 57
+Musical releases: 8
+Adventure releases: 44
+Children releases: 19
+Horror releases: 28
+Mystery releases: 19
+Fantasy releases: 29
+War releases: 13
+Western releases: 3
+Documentary releases: 25
+Animation releases: 18
+IMAX releases: 3
+
+
+2005:
+Action releases: 59
+Adventure releases: 43
+Drama releases: 140
+Sci-Fi releases: 19
+Thriller releases: 68
+Mystery releases: 17
+Horror releases: 36
+Children releases: 25
+Comedy releases: 120
+Fantasy releases: 22
+IMAX releases: 4
+Romance releases: 50
+Crime releases: 42
+Musical releases: 8
+Animation releases: 15
+Film-Noir releases: 3
+Documentary releases: 24
+War releases: 12
+Western releases: 2
+
+
+2006:
+Animation releases: 26
+Drama releases: 146
+Mystery releases: 25
+Sci-Fi releases: 25
+Thriller releases: 76
+Adventure releases: 38
+Crime releases: 35
+Comedy releases: 118
+Romance releases: 54
+Action releases: 49
+Fantasy releases: 38
+Horror releases: 33
+Western releases: 1
+Children releases: 22
+IMAX releases: 7
+Documentary releases: 23
+Film-Noir releases: 1
+Musical releases: 6
+War releases: 10
+
+
+2007:
+Drama releases: 141
+Musical releases: 9
+Horror releases: 43
+Thriller releases: 77
+Crime releases: 40
+Action releases: 46
+Adventure releases: 33
+Children releases: 14
+Fantasy releases: 24
+Comedy releases: 102
+Romance releases: 47
+Animation releases: 21
+Mystery releases: 14
+Sci-Fi releases: 29
+War releases: 12
+IMAX releases: 6
+Documentary releases: 18
+Western releases: 3
+(no genres listed) releases: 1
+
+
+2008:
+Comedy releases: 104
+Romance releases: 47
+Action releases: 72
+Adventure releases: 49
+Fantasy releases: 30
+Mystery releases: 15
+Sci-Fi releases: 31
+Thriller releases: 60
+Crime releases: 40
+Drama releases: 113
+War releases: 16
+Children releases: 22
+IMAX releases: 8
+Musical releases: 9
+Animation releases: 22
+Documentary releases: 20
+Horror releases: 23
+Western releases: 5
+
+
+2009:
+Action releases: 59
+Drama releases: 131
+Mystery releases: 24
+Sci-Fi releases: 44
+Thriller releases: 72
+IMAX releases: 10
+Adventure releases: 37
+Comedy releases: 111
+Romance releases: 41
+Horror releases: 41
+Fantasy releases: 32
+Crime releases: 39
+Musical releases: 7
+Animation releases: 32
+War releases: 7
+Children releases: 17
+Film-Noir releases: 1
+Documentary releases: 12
+Western releases: 2
+
+
+2010:
+Action releases: 65
+Drama releases: 102
+Horror releases: 24
+Thriller releases: 56
+Comedy releases: 97
+Romance releases: 41
+Adventure releases: 30
+Fantasy releases: 29
+Mystery releases: 16
+Crime releases: 23
+Children releases: 17
+Sci-Fi releases: 19
+War releases: 7
+IMAX releases: 15
+Animation releases: 18
+Documentary releases: 17
+Musical releases: 6
+Western releases: 5
+Film-Noir releases: 1
+
+
+2011:
+Drama releases: 108
+Fantasy releases: 19
+Romance releases: 37
+Action releases: 55
+Comedy releases: 101
+Crime releases: 25
+Thriller releases: 63
+IMAX releases: 20
+Adventure releases: 40
+Sci-Fi releases: 32
+Western releases: 2
+Documentary releases: 22
+Animation releases: 26
+Mystery releases: 16
+Children releases: 19
+War releases: 6
+Horror releases: 19
+Film-Noir releases: 2
+Musical releases: 3
+
+
+2012:
+Action releases: 55
+Adventure releases: 31
+Sci-Fi releases: 28
+IMAX releases: 25
+Crime releases: 32
+Film-Noir releases: 1
+Drama releases: 92
+Thriller releases: 54
+Comedy releases: 103
+Musical releases: 7
+Fantasy releases: 22
+Horror releases: 27
+War releases: 5
+Mystery releases: 9
+Romance releases: 31
+Animation releases: 24
+Children releases: 10
+Documentary releases: 11
+Western releases: 1
+
+
+2013:
+Comedy releases: 89
+Horror releases: 22
+Romance releases: 27
+Mystery releases: 14
+Thriller releases: 50
+Action releases: 61
+Crime releases: 35
+Drama releases: 98
+Animation releases: 26
+Sci-Fi releases: 32
+Fantasy releases: 28
+IMAX releases: 29
+Adventure releases: 39
+Documentary releases: 8
+Children releases: 8
+Western releases: 1
+War releases: 6
+Musical releases: 1
+(no genres listed) releases: 2
+
+
+2014:
+Action releases: 61
+Thriller releases: 60
+Comedy releases: 115
+Drama releases: 117
+IMAX releases: 14
+Adventure releases: 35
+Romance releases: 35
+Sci-Fi releases: 32
+Fantasy releases: 15
+War releases: 8
+Animation releases: 15
+Children releases: 15
+Crime releases: 38
+Mystery releases: 16
+Horror releases: 27
+Documentary releases: 17
+Western releases: 3
+Musical releases: 5
+
+
+2015:
+Action releases: 63
+Adventure releases: 45
+Thriller releases: 57
+Sci-Fi releases: 41
+Drama releases: 101
+Mystery releases: 16
+Comedy releases: 104
+Crime releases: 30
+Fantasy releases: 21
+Horror releases: 36
+IMAX releases: 1
+Romance releases: 21
+Animation releases: 19
+Children releases: 14
+Musical releases: 1
+Documentary releases: 19
+Western releases: 4
+(no genres listed) releases: 3
+War releases: 2
+
+
+2016:
+(no genres listed) releases: 7
+Action releases: 48
+Adventure releases: 36
+Fantasy releases: 22
+Comedy releases: 75
+Sci-Fi releases: 29
+Thriller releases: 41
+Animation releases: 22
+Crime releases: 15
+Drama releases: 69
+Romance releases: 18
+Horror releases: 16
+Mystery releases: 8
+Children releases: 13
+War releases: 3
+Documentary releases: 13
+Western releases: 1
+
+
+2017:
+(no genres listed) releases: 4
+Action releases: 38
+Adventure releases: 24
+Sci-Fi releases: 18
+Fantasy releases: 14
+Drama releases: 45
+Horror releases: 13
+Thriller releases: 22
+Documentary releases: 10
+Comedy releases: 56
+Animation releases: 18
+Mystery releases: 6
+Crime releases: 13
+Romance releases: 6
+Children releases: 9
+Western releases: 2
+War releases: 3
+
+
+2018:
+Action releases: 16
+Adventure releases: 12
+Sci-Fi releases: 13
+Mystery releases: 5
+Thriller releases: 13
+Crime releases: 6
+Drama releases: 9
+Horror releases: 4
+Comedy releases: 17
+Animation releases: 3
+Fantasy releases: 7
+Children releases: 3
+Documentary releases: 2
+Romance releases: 1
+
+
